@@ -26,7 +26,7 @@ SECRET_KEY = '+*cdzri-=wp^-952u^q*7zqym_!$)8$&r%jp%k0541pc%z-u$m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'djangoapitest.herokuapp.com']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'jangocrack.herokuapp.com']
 
 
 # Application definition
